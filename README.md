@@ -21,3 +21,8 @@ CryptoKet is made using the immense power of Solidity and Next.js. This project 
 - Next Themes: a simple library allows us to switch between light and dark mode.
 - React Dropzone: allow us to create components for uploading files.
 - Web3 Modal: is another library for interacting with smart contracts on the client side.
+
+**Files**
+[Request for Proposal (RFP).pdf](https://github.com/jaytintran/cryptoket/files/10069915/Request.for.Proposal.RFP.pdf)
+[Crypto-Ket-Proposal.pdf](https://github.com/jaytintran/cryptoket/files/10069919/Crypto-Ket-Proposal.pdf)
+
